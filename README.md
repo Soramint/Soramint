@@ -1,2 +1,2 @@
-#﻿Hello kub 
+Hello kub 
 My name Mintvert
